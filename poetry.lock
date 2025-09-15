@@ -1788,14 +1788,14 @@ typing-extensions = {version = ">=4.4.0", markers = "python_version < \"3.13\""}
 
 [[package]]
 name = "requests"
-version = "2.32.4"
+version = "2.32.5"
 description = "Python HTTP for Humans."
 optional = false
-python-versions = ">=3.8"
+python-versions = ">=3.9"
 groups = ["main", "dev"]
 files = [
-    {file = "requests-2.32.4-py3-none-any.whl", hash = "sha256:27babd3cda2a6d50b30443204ee89830707d396671944c998b5975b031ac2b2c"},
-    {file = "requests-2.32.4.tar.gz", hash = "sha256:27d0316682c8a29834d3264820024b62a36942083d52caf2f14c0591336d3422"},
+    {file = "requests-2.32.5-py3-none-any.whl", hash = "sha256:2462f94637a34fd532264295e186976db0f5d453d1cdd31473c85a6a161affb6"},
+    {file = "requests-2.32.5.tar.gz", hash = "sha256:dbba0bac56e100853db0ea71b82b4dfd5fe2bf6d3754a8893c3af500cec7d7cf"},
 ]
 
 [package.dependencies]
@@ -2519,14 +2519,14 @@ files = [
 
 [[package]]
 name = "xlsxwriter"
-version = "3.2.5"
+version = "3.2.8"
 description = "A Python module for creating Excel XLSX files."
 optional = false
 python-versions = ">=3.8"
 groups = ["main"]
 files = [
-    {file = "xlsxwriter-3.2.5-py3-none-any.whl", hash = "sha256:4f4824234e1eaf9d95df9a8fe974585ff91d0f5e3d3f12ace5b71e443c1c6abd"},
-    {file = "xlsxwriter-3.2.5.tar.gz", hash = "sha256:7e88469d607cdc920151c0ab3ce9cf1a83992d4b7bc730c5ffdd1a12115a7dbe"},
+    {file = "xlsxwriter-3.2.8-py3-none-any.whl", hash = "sha256:cb0baf8c9bcce14fdadd01297f4e6cd64901cf536283a1f4ab5d07290d85a66b"},
+    {file = "xlsxwriter-3.2.8.tar.gz", hash = "sha256:8c0dc8f1538c4052a4d4e07a1962750949c2a469138a6cfbc73349c88f6b39a7"},
 ]
 
 [[package]]
