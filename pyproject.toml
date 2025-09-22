@@ -34,8 +34,8 @@ xlsxwriter = "~=3.2.3"
 
 [tool.poetry.group.dev.dependencies]
 pytest = ">=8"
-ruff = ">=0.11.7,<0.13.0"
-black = "~=25.1.0"
+ruff = ">=0.11.7,<0.14.0"
+black = ">=25.1,<25.10"
 singer-sdk = { version=">=0.45.10,<0.48.0", extras = ["testing"] }
 
 [tool.poetry.extras]
